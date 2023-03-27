@@ -1,0 +1,1 @@
+# Simple Python app with Dockerfile (connect with a  mongo docker make outside)
